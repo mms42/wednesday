@@ -13,7 +13,7 @@ $mutedBodyText: #89aaa9;
 body {
     background: $mainColor;
     color: $bodyText;
-    font-weight: map-get($fontWeight, med);
+    font-weight: map-get($fontWeight, reg);
     font-family: $fontFamily;
 }
 header {
